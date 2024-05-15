@@ -1,2 +1,2 @@
 # ImageRes
-Static images for the discord embed
+Static images for The Flower Patch discord to embed
